@@ -53,7 +53,7 @@ const Register = () => {
           ></input>
         </div>
         <div className="form-group">
-          <label htmlFor="password2">Password</label>
+          <label htmlFor="password2">Verify Password</label>
           <input
             type="password"
             name="password2"
