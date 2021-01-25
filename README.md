@@ -12,22 +12,22 @@ A user can access his/her contacts **only** after logging in and verifying his/h
 The web application consists of 4 different pages:-
 
 ### Home 
-
+![Home](Images/Home.png)
 It contains the following components:
  - An Add Contact Form.
  - An Edit Button, through which neccessary changes can be made to a pre-existing contact.
  - A Delete button which deletes the contacts.
 
 ### About 
-
+![About](Images/About.png)
  It contains the version number of the app.
 
 ### Login 
-
+![Login](Images/Login.png)
   The user can verify his/her identity by undergoing account authentication.
 
 ### Register 
-
+![Register](Images/Register.png)
   The user can create an account through this form.
   
 ## Install & Run
