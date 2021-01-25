@@ -1,5 +1,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge&logo=go)](https://raw.githubusercontent.com/kkdai/consistent/master/LICENSE)
 # What is Contact-Keeper?
 
 As the name suggests, Contact Keeper is a web application built to maintain a record of a user's Contacts. 
